@@ -1,0 +1,47 @@
+{
+  "name": "vue3-vite-tailwindcss-typescript-alijunior",
+  "version": "0.0.1",
+  "description": "Vue3 + Vite + TailwindCSS + TypeScript boilerplate - alijunior",
+  "scripts": {
+    "dev": "cls && vite",
+    "build": "cls && vite build"
+  },
+  "dependencies": {
+    "vue": "^3.0.0-rc.4"
+  },
+  "devDependencies": {
+    "postcss-import": "^12.0.1",
+    "postcss-nesting": "^7.0.1",
+    "postcss-preset-env": "^6.7.0",
+    "@typescript-eslint/eslint-plugin": "^3.7.0",
+    "@typescript-eslint/parser": "^3.7.0",
+    "@vue/compiler-sfc": "^3.0.0-rc.4",
+    "@vue/eslint-config-prettier": "^6.0.0",
+    "@vue/eslint-config-typescript": "^5.0.2",
+    "eslint": "^7.5.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-prettier-vue": "^2.1.0",
+    "eslint-plugin-vue": "^7.0.0-beta.0",
+    "prettier": "^2.0.5",
+    "tailwindcss": "^1.5.2",
+    "typescript": "^3.9.7",
+    "vite": "^1.0.0-rc.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alitecsolucoes/vue3-vite-tailwindcss-typescript-alijunior.git"
+  },
+  "keywords": [
+    "vue3",
+    "vite",
+    "tailwindcss",
+    "typescript"
+  ],
+  "author": "alijunior (Junior Ali)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alitecsolucoes/vue3-vite-tailwindcss-typescript-alijunior/issues"
+  },
+  "homepage": "https://github.com/alitecsolucoes/vue3-vite-tailwindcss-typescript-alijunior#readme"
+}

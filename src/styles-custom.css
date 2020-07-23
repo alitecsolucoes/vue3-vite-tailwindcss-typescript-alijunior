@@ -1,0 +1,7 @@
+.btn {
+  @apply border rounded px-4 py-2 mt-2 bg-gray-700 text-white;
+}
+
+.btn:hover {
+  @apply bg-blue-600 text-black;
+}
